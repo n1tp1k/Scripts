@@ -1,2 +1,1 @@
-# pasta
-Collection of garbage pentest tools I've made
+Collection of misc pentest tools I've made
